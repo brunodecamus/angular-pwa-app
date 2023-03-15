@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Ajout de pwa
+    
+    Install
+
+    npm install @schematics/angular   (version "@schematics/angular": "^13.3.10",)
+
+    node_modules\\.bin\\ng add @angular/pwa@13 --project angular-pwa-app (package @angular/pwa@13)
+
+
